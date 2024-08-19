@@ -1,5 +1,8 @@
-<h1 align="center">Hola! 👋, Soy Jesus Yair Juarez</h1>
-<h3 align="center">Un Científico de Datos de Argentina</h3>
+<p align="center">
+  <span style="font-size: 24px;"><b>Hola! 👋, Soy Jesus Yair Juarez</b></span>
+  <br>
+  <span style="font-size: 18px;">Un Científico de Datos de Argentina</span>
+</p>
 
 
 ## 🛠️ Habilidades Técnicas
@@ -17,8 +20,11 @@ Análisis de Sentimiento en Reseñas: Implementé un modelo de análisis de sent
 ## 🚀 Lo que Estoy Aprendiendo
 Actualmente, estoy profundizando en inteligencia artificial de deep learning, generativa y modelos conversacionales. También estoy explorando R para ampliar mis habilidades en análisis estadístico.
 
-## 💬 Conecta Conmigo
-- LinkedIn: [Jesus Yair Juarez](https://www.linkedin.com/in/yair-juarez/)
-- Correo Electrónico: [Jesus Yair](mailto:juarezjesusyair@gmail.com)
-- Whatsapp: [+54 9 351 3426 914](https://wa.me/5493513426914)
+## 💬 Contacta Conmigo
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-juarez/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493513426914)
+[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:juarezjesusyair@gmail.com)
+
+</div>
