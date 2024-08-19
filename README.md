@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 24px;"><b>Hola! 👋, Soy Jesus Yair Juarez</b></span>
+  <h1><b>Hola! 👋, Soy Jesus Yair Juarez</b></h1>
   <br>
   <span style="font-size: 18px;">Un Científico de Datos de Argentina</span>
 </p>
