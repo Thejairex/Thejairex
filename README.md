@@ -1,7 +1,5 @@
-<p align="center">
-  <h1><b>Hola! 👋, Soy Jesus Yair Juarez</b>
-  <br>Un Científico de Datos de Argentina</h1>
-</p>
+<h1 align="center"><b>Hola! 👋, Soy Jesus Yair Juarez</b>
+<br>Un Científico de Datos de Argentina</h1>
 
 ## 🛠️ Habilidades Técnicas
 - **_Lenguajes de Programación_**: Python, SQL
