@@ -21,7 +21,7 @@ Análisis de Sentimiento en Reseñas: Implementé un modelo de análisis de sent
 Actualmente, estoy profundizando en inteligencia artificial de deep learning, generativa y modelos conversacionales. También estoy explorando R para ampliar mis habilidades en análisis estadístico.
 
 ## 💬 Contacta Conmigo
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-juarez/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493513426914)
