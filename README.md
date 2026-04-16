@@ -1,26 +1,30 @@
-<h1 align="center"><b>Hola! 👋, Soy Jesus Yair Juarez</b>
-<br>Un Científico de Datos de Argentina</h1>
+<h1 align="center"><b>Hola! 👋 Soy Jesus Yair Juarez</b></h1>
+<h3 align="center">Backend Developer · Argentina 🇦🇷</h3>
 
-## 🛠️ Habilidades Técnicas
-- **_Lenguajes de Programación_**: Python, SQL
-- **_Bibliotecas y Herramientas_**: scikit-learn, pandas, NLTK, BigQuery, TensorFlow
-- **_Modelado_**: Modelos predictivos, aprendizaje supervisado y no supervisado
-- **_Bases de Datos_**: MySQL, Google BigQuery
-- **_Ingenieria de datos_**: ETL, ELT, Data wrangling, Data visualization.
-- **_Otras_**: Web scraping, automatización de procesos, visualización de datos
-## 📊 Proyectos Destacados
-Sistema de Recomendación de Restaurantes: Desarrollé un sistema de recomendación utilizando técnicas de filtrado colaborativo y basado en contenido, optimizado para procesar grandes volúmenes de datos.
+---
 
-Análisis de Sentimiento en Reseñas: Implementé un modelo de análisis de sentimiento para clasificar reseñas de usuarios en diferentes idiomas utilizando NLTK y técnicas de procesamiento de lenguaje natural.
+## 🛠️ Stack Principal
 
-## 🚀 Lo que Estoy Aprendiendo
-Actualmente, estoy profundizando en inteligencia artificial de deep learning, generativa y modelos conversacionales. También estoy explorando R para ampliar mis habilidades en análisis estadístico.
+- **Backend**: PHP · Laravel · Python · Flask
+- **Bases de datos**: MySQL · PostgreSQL · SQL
+- **Herramientas**: Docker · Git · GitHub · Linux
 
-## 💬 Contacta Conmigo
-<div align="left">
+## 🚀 Proyectos Destacados
+
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| [StreamVault](https://github.com/Thejairex/StreamVault) | Laravel, Blade | Plataforma de streaming full-stack |
+| [Bibliotaku](https://github.com/Thejairex/bibliotaku) | Laravel, Livewire, Jikan API | Tracker de anime/manga en desarrollo activo |
+| [hospital-backend](https://github.com/Thejairex/hospital-backend) | Python, Flask | API REST para gestión hospitalaria |
+| [gacha-system](https://github.com/Thejairex/gacha-system) | Python | Sistema gacha con mecánicas de probabilidad y pity |
+
+## 💡 Aprendiendo Actualmente
+
+- Arquitectura avanzada en Laravel
+- IA conversacional y modelos de emoción (VAD/OCC)
+
+## 💬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yair-juarez/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493513426914)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:juarezjesusyair@gmail.com)
-
-</div>
